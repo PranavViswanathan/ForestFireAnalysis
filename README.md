@@ -16,3 +16,19 @@ and it combines the two previous components. Although different scales are used 
 each of the FWI elements, high values suggest more severe burning conditions. Also,
 the fuel moisture codes require a memory (time lag) of past weather conditions: 16
 hours for FFMC, 12 days for DMC and 52 days for DC
+
+<ol>
+<li>X - x-axis spatial coordinate within the Montesinho park map: 1 to 9
+<li>Y - y-axis spatial coordinate within the Montesinho park map: 2 to 9
+<li>month - month of the year: 'jan' to 'dec'
+<li>day - day of the week: 'mon' to 'sun'
+<li>FFMC - FFMC index from the FWI system: 18.7 to 96.20
+<li>DMC - DMC index from the FWI system: 1.1 to 291.3
+<li>DC - DC index from the FWI system: 7.9 to 860.6
+<li>ISI - ISI index from the FWI system: 0.0 to 56.10
+<li>temp - temperature in Celsius degrees: 2.2 to 33.30
+<li>RH - relative humidity in %: 15.0 to 100
+<li>wind - wind speed in km/h: 0.40 to 9.40
+<li>rain - outside rain in mm/m2 : 0.0 to 6.4
+<li>area - the burned area of the forest (in ha): 0.00 to 1090.84
+</ol>

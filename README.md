@@ -32,3 +32,8 @@ hours for FFMC, 12 days for DMC and 52 days for DC
 <li>rain - outside rain in mm/m2 : 0.0 to 6.4
 <li>area - the burned area of the forest (in ha): 0.00 to 1090.84
 </ol>
+
+## Tech Details
+<p align="center">
+<img alt="R" src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white">
+</p>

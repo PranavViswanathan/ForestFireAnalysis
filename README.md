@@ -1,5 +1,11 @@
 # ForestFireAnalysis
 
+<center>
+
+![forest fire](https://github.com/PranavViswanathan/ForestFireAnalysis/blob/main/ReadmeResources/forestFire.gif)
+
+</center>
+
 Forest fires are a major environmental issue, creating economical and ecological damage while endangering human lives. Fast detection is a key element for controlling such phenomenon. To achieve this, one alternative is to use automatic tools based on local sensors, such as provided by meteorological stations. In effect, meteorological conditions (e.g. temperature, wind) are known to influence forest fires and several fire indexes, such as the forest Fire Weather Index (FWI).
 
 ## About the features in the dataset

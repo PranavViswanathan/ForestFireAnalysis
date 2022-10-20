@@ -1,5 +1,7 @@
 library(readxl)
 library(factoextra)
+
+# reading the dataset
 forestfires <- read_excel("C:/Users/Pranav Viswanathan/Downloads/forestfires.xls")
 forestfires
 df <-data.frame(forestfires$FFMC, forestfires$DMC, forestfires$ISI)
